@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Easter Sunday</string>
+    <color name="back">#A2D9CE</color>
+    <string name="resultYear">In 2020, Easter falls on</string>
+    <string name="resultDate">Sunday, February 3.</string>
+    <string name="whenEaster">When is Easter day? </string>
+</resources>
